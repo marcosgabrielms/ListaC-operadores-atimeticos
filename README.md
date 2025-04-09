@@ -1,6 +1,6 @@
 # 💡 Simuladores Financeiros e de Consumo em Python
 
-Este repositório contém um conjunto de simuladores desenvolvidos em **Python** para resolver situações reais envolvendo **educação financeira**, **consumo de combustível** e **juros compostos**. Cada simulador foi feito com foco em **pensamento computacional** e uso de **operações aritméticas básicas**, sem estruturas condicionais (`if`, `else`).
+Este repositório contém um conjunto de simuladores desenvolvidos em **Python** para resolver situações reais envolvendo **educação financeira**, **consumo de combustível** e **juros compostos**. Cada simulador foi feito com foco em **pensamento computacional** e uso de **operações aritméticas básicas**.
 
 ---
 
