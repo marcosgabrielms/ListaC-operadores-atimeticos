@@ -8,7 +8,7 @@ Este repositório contém um conjunto de simuladores desenvolvidos em **Python**
 
 Todo o projeto foi feito usando:
 
-- 🐍 **Python 3**
+- 🐍 **Python **
 - Entrada de dados via `input()`
 - Operações com números decimais (`float`)
 - Saída de resultados com `print()`
